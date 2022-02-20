@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://img.shields.io/badge/Blog-loss4Wang.github.io-orange)![](https://img.shields.io/badge/Email-wang__xiao%40whu.edu.cn-green)
+
 * Wang Xiao from China🇨🇳 
 * Undergraduate student in Wuhan University, majoring Information Management and Information System🏫 
 * I am interested in NLP/Computational Linguistics, and applying for related Ms.c programs right now.
