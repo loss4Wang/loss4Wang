@@ -4,13 +4,12 @@
 
 * Wang Xiao from China🇨🇳 
 * Undergraduate student in Wuhan University, majoring Information Management and Information System🏫 
-* I am interested in NLP/Computational Linguistics, and applying for related Ms.c programs right now.
+* Prospective student in Uni Saarland🇩🇪 (M.Sc. Language Science and Technology)
 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently research on: Fake review Detection; Multi-lingual NLP.
-- 🌱 I’m currently learning: [3MonthsML](https://www.bilibili.com/video/BV1yg411K72z?spm_id_from=333.1007.top_right_bar_window_history.content.click)
+- 🔭 I’m currently research on:  Multi-lingual NLP.
 - 📫 How to reach me: wang_xiao@whu.edu.cn
-- ⚡ Fun fact: Ich lerne Deutsch.🇩🇪
+- ⚡ Fun fact: Ich lerne Deutsch.
 
