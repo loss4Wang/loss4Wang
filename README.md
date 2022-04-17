@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently research on:  Multi-lingual NLP.
+
 - 📫 How to reach me: wang_xiao@whu.edu.cn
 - ⚡ Fun fact: Ich lerne Deutsch.
 
