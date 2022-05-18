@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://img.shields.io/badge/Blog-loss4Wang.github.io-orange)![](https://img.shields.io/badge/Email-wang__xiao%40whu.edu.cn-green)
+![](https://img.shields.io/badge/Blog-loss4Wang.github.io-orange)![](https://img.shields.io/badge/Email-wangxiao02131%40gmail.com-green)
 
 * Wang Xiao from China 🇨🇳 
 * Undergraduate: Wuhan University, Information Management and Information System 🏫 
