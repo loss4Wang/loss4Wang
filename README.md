@@ -11,5 +11,4 @@ Here are some ideas to get you started:
 
 - ❤️ Interest: Natural Language Processing
 - 📫 How to reach me: wangxiao02131@gmail.com
-- ⚡ Fun fact: Ich lerne Deutsch.
 
